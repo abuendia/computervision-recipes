@@ -1,0 +1,1 @@
+python multi_object_tracking_slow.py --prototxt mobilenet_ssd/MobileNetSSD_deploy.prototxt --model mobilenet_ssd/MobileNetSSD_deploy.caffemodel --video Famalicao_Half1_Trim.mp4 --output benfica_dlib_first_pass.avi --confidence 0.50
