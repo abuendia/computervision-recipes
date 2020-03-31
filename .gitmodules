@@ -10,3 +10,12 @@
 [submodule "scenarios/multi_object_tracking/SST"]
 	path = scenarios/multi_object_tracking/SST
 	url = https://github.com/shijieS/SST.git
+[submodule "scenarios/multi_object_tracking/iou-tracker"]
+	path = scenarios/multi_object_tracking/iou-tracker
+	url = https://github.com/bochinski/iou-tracker.git
+[submodule "scenarios/multi_object_tracking/tracking_wo_bnw"]
+	path = scenarios/multi_object_tracking/tracking_wo_bnw
+	url = https://github.com/phil-bergmann/tracking_wo_bnw.git
+[submodule "scenarios/multi_object_tracking/MOTDT"]
+	path = scenarios/multi_object_tracking/MOTDT
+	url = https://github.com/longcw/MOTDT.git
