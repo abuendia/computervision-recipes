@@ -19,3 +19,15 @@
 [submodule "scenarios/multi_object_tracking/MOTDT"]
 	path = scenarios/multi_object_tracking/MOTDT
 	url = https://github.com/longcw/MOTDT.git
+[submodule "scenarios/multi_object_tracking/deepmot"]
+	path = scenarios/multi_object_tracking/deepmot
+	url = https://gitlab.inria.fr/yixu/deepmot.git
+[submodule "scenarios/multi_object_tracking/pytorch_objectdetecttrack"]
+	path = scenarios/multi_object_tracking/pytorch_objectdetecttrack
+	url = https://github.com/cfotache/pytorch_objectdetecttrack.git
+[submodule "scenarios/multi_object_tracking/deep_sort"]
+	path = scenarios/multi_object_tracking/deep_sort
+	url = https://github.com/nwojke/deep_sort.git
+[submodule "scenarios/multi_object_tracking/3d-vehicle-tracking"]
+	path = scenarios/multi_object_tracking/3d-vehicle-tracking
+	url = https://github.com/ucbdrive/3d-vehicle-tracking.git
